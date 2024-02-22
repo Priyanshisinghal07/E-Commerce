@@ -1,0 +1,16 @@
+body {
+    height: 100vh;
+    font-family: "Poppins", sans-serif;
+
+    color: #182666dd;
+    color: #8d97c2;
+    color: #5e84b9dd;
+    background-color: #daebf85d;
+  }
+  .back{
+    text-decoration: none;
+  }
+  .back-heading{
+   padding-left: 70rem;
+   color: #000;
+  }
